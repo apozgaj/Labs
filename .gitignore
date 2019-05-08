@@ -3,3 +3,6 @@
 ################################################################################
 
 /SSOTesting/Microsoft.Identity.Web/bin/Debug/netcoreapp2.2
+/SSOTesting/Microsoft.Identity.Web/obj
+/SSOTesting/SSOTesting/.vs/SSOTesting
+/SSOTesting/SSOTesting/bin/Debug/netcoreapp2.2
